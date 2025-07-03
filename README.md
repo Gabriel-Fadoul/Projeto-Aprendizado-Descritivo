@@ -24,7 +24,7 @@ A base de dados do INEP possui uma grande variedade de instituições de ensino 
  3. **Descoberta de Subgrupos**: Execução do Algoritmo de BeamSearch para encontrar Subgrupos relevantes segundo uma função de qualidade Subgrupo Vs. Todos;
  4. **Análise dos Subgrupos**: Comparação de distribuição de taxa de evasão nos subgrupos e nos dados totais e análise de relevância.
 ## Resultados
-
+Os resultados estarão em breve no artigo correspondente à análise.
 
 ## Referências
 [Base de Dados INEP Ensino Superior](https://basedosdados.org/dataset/a3b57cca-ff80-4bf2-8bac-c145109e06a7?table=03f7e043-9ea1-47f9-9e77-f55dfe449381)
